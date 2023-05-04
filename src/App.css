@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700&display=swap");
 
-body{
+body {
   font-family: "Source Sans Pro", sans-serif;
   margin: 0;
   padding: 0;
@@ -10,20 +10,20 @@ body{
   background: linear-gradient(270deg, #000000 -2.92%, rgba(0, 0, 0, 0) 100%);
 }
 
-.container{
+.container {
   width: 100%;
   margin: 1em auto;
   background-color: darkslategray;
 }
 
-.grid{
+.grid {
   display: grid;
-  margin-left: .5px;
-  grid-template-columns: repeat(4,1fr);
+  margin-left: 0.7px;
+  grid-template-columns: repeat(4, 1fr);
   grid-gap: 0.2em;
   justify-content: center;
 }
 
-h2{
+h2 {
   background-color: antiquewhite;
 }
