@@ -18,7 +18,7 @@ body {
 
 .grid {
   display: grid;
-  margin-left: 0.7px;
+  margin-left: 0.6px;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 0.2em;
   justify-content: center;
